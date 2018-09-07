@@ -1,6 +1,13 @@
 # Resume
 resume for job！
 
+<div align="center">
+    <img src="https://raw.githubusercontent.com/ckjsun/Resume/master/qqq.png">
+    <br>
+</div>
+
+--------------
+
 
 ### 教育背景
 
