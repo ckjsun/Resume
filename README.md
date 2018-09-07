@@ -2,7 +2,7 @@
 resume for job！
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/ckjsun/Resume/master/qqq.png">
+    <img src="https://raw.githubusercontent.com/ckjsun/Resume/master/qqq.png" width="300px">
     <br>
 </div>
 
